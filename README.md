@@ -9,11 +9,10 @@
 
 - 👨‍💻 More of my projects are available at: [www.devdefer.com](www.devdefer.com)
 
-- :movie_camera: Some working features examples: <a href="https://www.youtube.com/@devdeferdevelopment-connec9393" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+- :movie_camera: Some working live features examples: <a href="https://www.youtube.com/@devdeferdevelopment-connec9393" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 
 - 📫 E-mail me: **office@devdefer.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
