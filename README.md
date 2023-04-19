@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pawel</h1>
 <h3 align="center">A full stack developer from Poland</h3>
 
-- 🔭 I’m currently working on [Calendar Bot for Discord (Nest Backend)](https://github.com/mapawel/discord-calendar-bot)
+- 🔭 I’m currently working on [Calendar Bot for Discord (Nest Backend)](https://github.com/mapawel/discord-calendar-bot) and [Email Campaign App (Nest Backend)](https://github.com/mapawel/Email-Campaign-App)
 
-- 🌱 I’m currently learning: **Docker, AWS**
+🌱 I’m currently learning: **Docker, AWS**
 
-- 👯 I’m looking to collaborate on **new Nodejs backend projects**
+👯 I’m looking to collaborate on **new Nodejs backend projects**
 
-- 👨‍💻 More of my projects are available at: www.devdefer.com
+👨‍💻 More of my projects are available at: www.devdefer.com
 
-- :movie_camera: Some working live features examples: <a href="https://www.youtube.com/@devdeferdevelopment-connec9393" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+:movie_camera: Some working live features examples: <a href="https://www.youtube.com/@devdeferdevelopment-connec9393" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 
-- 📫 E-mail me: **office@devdefer.com**
+📫 E-mail me: **office@devdefer.com**
 
 <p align="left">
 </p>
