@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawel</h1>
 <h3 align="center">A full stack developer from Poland</h3>
 
-🔭 I’m currently working on [Calendar Bot for Discord (Nest Backend)](https://github.com/mapawel/discord-calendar-bot) and [Email Campaign App (Nest Backend)](https://github.com/mapawel/Email-Campaign-App)
+🔭 I’m currently working on [Calendar Bot for Discord (Nest Backend)](https://github.com/mapawel/discord-calendar-bot) and [Custom CRM integrated with W-Firma Accounting Software](https://github.com/mapawel/w-firma-integration)
 
 🌱 I’m currently learning: **Docker, AWS**
 
