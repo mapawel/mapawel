@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pawel</h1>
 <h3 align="center">A backend developer from Poland</h3>
 
-🔭 I’m currently working on [IOT Home Server Project](https://github.com/mapawel/home-iot-server) and [Custom CRM integrated with W-Firma Accounting Software](https://github.com/mapawel/w-firma-integration)
+🔭 I’m currently working on [IOT Home Server Project](https://github.com/mapawel/home-iot-server) and [Shopping Assistant Local App](https://github.com/mapawel/shopping-assistant)
 
-🌱 I’m currently learning: **Docker, AWS**
+🌱 I’m currently learning: **Python**
 
 👯 I’m looking to collaborate on **new Nodejs backend projects**
 
